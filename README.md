@@ -7,7 +7,7 @@ This game is based on the popular Flood It game, and provides output both on the
 
 * `new n`: Creates a new n x n grid. 
 * `random`: Randomly initializes the board.
-* `init`: Allows manual initialization. Enter r c s, which represents the row, column and state to change that cell to. Enter -1 -1 to exit init mode.
+* `init`: Allows manual initialization. Enter r c s, which represents the row, column and state to change that cell to. Enter `-1 -1` to exit init mode.
 * `include filex`: Initializes using the r c s contained in filex. filex need not end with -1 -1.
 * `game g`: Starts a new game with g moves remaining.
 * `switch s`: Switch the (0,0) to state s.
