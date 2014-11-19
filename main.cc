@@ -19,6 +19,8 @@ int main(){
 	bool inputExhausted = false; //Check to see if input is exhausted
 	int n; //Size of game board
 
+	srand(time(NULL)); //Randomize seed
+
 	while (true) {
 
 		//Break if ran out of moves
