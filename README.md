@@ -4,6 +4,7 @@ This game is based on the popular Flood It game, and provides output both on the
 **Goal**: Change the color of the (0,0) cell until all cells are the same color. All cells touching (0,0) with the same colour would also change the color of their neighbouring cells as well.
 
 **How to Play:**
+
 *`new n`: Creates a new n x n grid. 
 *`random`: Randomly initializes the board.
 *`init`: Allows manual initialization. Enter r c s, which represents the row, column and state to change that cell to. Enter -1 -1 to exit init mode.
