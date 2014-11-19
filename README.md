@@ -1,5 +1,5 @@
 ####Flood Tile Game
-This game is based on the popular Flood It game, and provides output both on the command line and in an X11 Window. 
+This game is based on the popular Flood It! game, and provides output both on the command line and in an X11 Window. 
 
 **Goal**: Change the color of the (0,0) cell until all cells are the same color. All cells touching (0,0) with the same colour would also change the color of their neighbouring cells as well.
 
