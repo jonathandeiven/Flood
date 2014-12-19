@@ -1,6 +1,3 @@
-/*The window.cc file was provided by the course instructors for
-  CS 246 at the University of Waterloo.*/
-
 #include <X11/Xlib.h>
 #include <X11/Xutil.h>
 #include <iostream>
